@@ -1,0 +1,106 @@
+{
+    "cappuchino": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/04/Dawet-Durian-1.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "expresso": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/6.-Es-Kkopi-Alpukat-300x300.jpg",
+            "nama": "Es Doger Gila",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/es-bandung-tanpa-susu.jpg",
+            "nama": "Es Gaul Cuy",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/cendol-dari-nol.jpg",
+            "nama": "Es Cendol Candul",
+            "size": "250 Gram",
+            "harga": "1.000.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2022/02/korean-strawberry-milk.jpg",
+            "nama": "Es Korean Tangsel",
+            "size": "350 Gram",
+            "harga": "5.000.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/6.-Es-Kkopi-Alpukat-300x300.jpg",
+            "nama": "Es Doger Gila",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/6.-Es-Kkopi-Alpukat-300x300.jpg",
+            "nama": "Es Doger Gila",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/6.-Es-Kkopi-Alpukat-300x300.jpg",
+            "nama": "Es Doger Gila",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/6.-Es-Kkopi-Alpukat-300x300.jpg",
+            "nama": "Es Doger Gila",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
